@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bikunli
-- 👀 I’m interested in quantum error correction + condensed matter theory
+- 👀 I’m interested in quantum information science + condensed matter theory
 
 
 <!---
